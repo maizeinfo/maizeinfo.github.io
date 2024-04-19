@@ -1,8 +1,10 @@
 ---
-title: ""
-meta_title: "news"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "News"
+# meta title
+meta_title: ""
+# meta description
+description: "This is meta description"
+# save as draft
 draft: false
 ---
 

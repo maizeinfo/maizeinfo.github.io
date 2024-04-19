@@ -1,8 +1,10 @@
 ---
-title:
-meta_title: "Resource"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "Maizewebs"
+# meta title
+meta_title: ""
+# meta description
+description: "This is meta description"
+# save as draft
 draft: false
 ---
 

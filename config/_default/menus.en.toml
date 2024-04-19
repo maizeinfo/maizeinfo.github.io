@@ -18,7 +18,10 @@ name = "NEWS"
 pageRef = "/news"
 weight = 3
 
-
+[[main]]
+name = "letments"
+pageRef = "/letments"
+weight = 3
 
 [[main]]
 name = "GENES"

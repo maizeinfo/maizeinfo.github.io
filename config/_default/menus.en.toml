@@ -7,12 +7,12 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "resource"
-pageRef = "/about"
+name = "Resource"
+pageRef = "/resource"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "news"
 pageRef = "/elements"
 weight = 3
 
@@ -52,12 +52,3 @@ name = "About"
 pageRef = "/about"
 weight = 1
 
-[[footer]]
-name = "Elements"
-pageRef = "/elements"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 3

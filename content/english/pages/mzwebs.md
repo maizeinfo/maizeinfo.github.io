@@ -18,6 +18,7 @@ draft: false
 - [MaizeSNPDB：SNP database of 1210 maize lines.](https://venyao.xyz/MaizeSNPDB/)  
 - [MaizeGDB qTeller:qTeller is a comparative RNA-seq expression platform to compare expression across multiple data sources in a user-provided gene list or genomic interval, or to visually compare expression between two genes.](https://www.maizegdb.org/mgc/)  
 - [MaizeMine: An integrated data warehouse for MaizeGDB.](https://maizemine.rnet.missouri.edu/maizemine/begin.do)  
+<!--more-->
 - [MaizeDig:Database of Images & Genomes](https://maizedig.maizegdb.org/index.html)  
 - [maize:Maize Genomics Resource](http://maize.uga.edu/)  
 - [MaizeNetome: The web can help to assist mutant/QTL cloning, and systematically dissect possible molecular mechanisms conferring agronomic important traits.](https://academic.oup.com/database/article/doi/10.1093/database/baaa044/5857845)  

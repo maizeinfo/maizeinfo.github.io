@@ -19,6 +19,11 @@ pageRef = "/news"
 weight = 3
 
 [[main]]
+name = "VARIETIES"
+pageRef = "/varieties"
+weight = 3
+
+[[main]]
 name = "letments"
 pageRef = "/letments"
 weight = 3
@@ -29,7 +34,7 @@ pageRef = "/genes"
 weight = 3
 
 [[main]]
-weight = 4
+weight = 2
 name = "RESOURCES"
 
 [[main]]
@@ -46,7 +51,7 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "PAGES"
 
 [[main]]
 parent = "PAGES"
@@ -54,22 +59,22 @@ name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-parent = "Pages"
+parent = "PAGES"
 name = "Contact"
 pageRef = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "PAGES"
 name = "Authors"
 pageRef = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "PAGES"
 name = "Categories"
 pageRef = "/categories"
 
 [[main]]
-parent = "Pages"
+parent = "PAGES"
 name = "404 Page"
 pageRef = "/404"
 

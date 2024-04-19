@@ -1,5 +1,5 @@
 ---
-title: "Elements"
+title: "News"
 # meta title
 meta_title: ""
 # meta description

@@ -17,8 +17,18 @@ pageRef = "/literature"
 weight = 2
 
 [[main]]
-name = "news"
+name = "News"
 pageRef = "/news"
+weight = 3
+
+[[main]]
+name = "Labs"
+pageRef = "/labs"
+weight = 3
+
+[[main]]
+name = "Genes"
+pageRef = "/genes"
 weight = 3
 
 [[main]]

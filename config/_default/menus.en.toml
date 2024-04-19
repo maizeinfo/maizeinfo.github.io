@@ -6,16 +6,6 @@ name = "Home"
 pageRef = "/"
 weight = 1
 
-[[main]]
-name = "text1"
-pageRef = "/text1"
-weight = 2
-
-[[main]]
-name = "text2"
-pageRef = "/text2"
-weight = 2
-
 
 [[main]]
 name = "Resources"

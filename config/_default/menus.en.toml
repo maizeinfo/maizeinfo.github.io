@@ -6,7 +6,6 @@ name = "Home"
 pageRef = "/"
 weight = 1
 
-
 [[main]]
 name = "Resources"
 pageRef = "/resources"

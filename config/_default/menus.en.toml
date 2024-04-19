@@ -9,35 +9,35 @@ weight = 1
 
 
 [[main]]
-name = "Literature"
+name = "LITERATURE"
 pageRef = "/literature"
 weight = 2
 
 [[main]]
-name = "News"
+name = "NEWS"
 pageRef = "/news"
 weight = 3
 
 
 
 [[main]]
-name = "Genes"
+name = "GENES"
 pageRef = "/genes"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Resources"
+name = "RESOURCES"
 
 [[main]]
-parent = "Resources"
-name = "Maizewebs"
+parent = "RESOURCES"
+name = "MZWEBS"
 pageRef = "/maizewebs"
 weight = 2
 
 [[main]]
-parent = "Resources"
-name = "Labs"
+parent = "RESOURCES"
+name = "LABS"
 pageRef = "/labs"
 weight = 3
 
@@ -46,7 +46,7 @@ weight = 4
 name = "Pages"
 
 [[main]]
-parent = "Pages"
+parent = "PAGES"
 name = "Blog"
 pageRef = "/blog"
 

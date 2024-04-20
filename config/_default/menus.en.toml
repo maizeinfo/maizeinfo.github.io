@@ -40,7 +40,7 @@ name = "RESOURCES"
 [[main]]
 parent = "RESOURCES"
 name = "MZWEBS"
-pageRef = "/maizewebs"
+pageRef = "/mzwebs"
 weight = 2
 
 [[main]]

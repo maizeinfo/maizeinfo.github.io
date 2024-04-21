@@ -15,6 +15,4 @@ features:
 ---
 
 
-
-[![Visit tracker](https://clustrmaps.com/map_v2.png?d=u7L7BaAMGYDFze_JvuwLxAW-6H0PBpDrsJmgfS_Qnu4&cl=ffffff)](https://clustrmaps.com/site/1bzd5)
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u7L7BaAMGYDFze_JvuwLxAW-6H0PBpDrsJmgfS_Qnu4&cl=ffffff&w=a"></script>

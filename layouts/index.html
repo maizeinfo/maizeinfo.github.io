@@ -142,6 +142,38 @@
   {{ end }}
   <!-- /Testimonials -->
   
+<div style="text-align: center;">
+  
+  
+    <input
+  id="search-modal-input"
+  type="text"
+  placeholder="Enter search term"
+  data-search-input
+  autocomplete="on"
+  aria-label="Search"
+  aria-describedby="Search"
+  placeholder="Search Post ..."
+  style="width: 800px; /* 设置宽度为800像素 */
+         padding: 10px;
+         border: 2px solid #ccc;
+         border-radius: 20px;
+         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         outline: none;
+         transition: border-color 0.3s ease-in-out;
+         margin-right: 20px; /* 添加右边距 */"/>
+    <button
+        id="search-button"
+        aria-label="search"
+        class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+        data-target="search-modal"
+        onclick="search()">
+        <i class="fa-solid fa-search"></i>
+    </button>
+    
+  
+  </div>
+  
 <section class="section" style="withd: 100%; padding-top: 80px; padding-bottom: 0px;">
     <body >
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u7L7BaAMGYDFze_JvuwLxAW-6H0PBpDrsJmgfS_Qnu4&cl=ffffff&w=700"></script>

@@ -73,10 +73,7 @@ parent = "PAGES"
 name = "Categories"
 pageRef = "/categories"
 
-[[main]]
-parent = "PAGES"
-name = "404 Page"
-pageRef = "/404"
+
 
 
 

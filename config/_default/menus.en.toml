@@ -20,12 +20,7 @@ weight = 3
 
 [[main]]
 name = "VARIETIES"
-pageRef = "/varieties"
-weight = 3
-
-[[main]]
-name = "letments"
-pageRef = "/letments"
+pageRef = "/blog"
 weight = 3
 
 [[main]]
@@ -58,10 +53,6 @@ parent = "PAGES"
 name = "Blog"
 pageRef = "/blog"
 
-[[main]]
-parent = "PAGES"
-name = "Contact"
-pageRef = "/contact"
 
 [[main]]
 parent = "PAGES"

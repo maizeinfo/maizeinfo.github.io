@@ -51,7 +51,7 @@ name = "PAGES"
 [[main]]
 parent = "PAGES"
 name = "Blog"
-pageRef = "/blog"
+pageRef = ""
 
 
 [[main]]

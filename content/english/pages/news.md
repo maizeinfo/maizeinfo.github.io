@@ -1,29 +1,22 @@
 ---
 html:
-    toc: true
-    # number_sections: true
-    toc_depth: 6
-    toc_float: true
-       
+    toc: true
+    # number_sections: true
+    
+print_background: true
 --- 
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-
 <!-- code_chunk_output -->
 
-## [相关信息](#相关信息)
+- [相关信息](#相关信息)
+- [前沿资讯](#前沿资讯)
+- [论文推荐](#论文推荐)
+- [期刊发文](#期刊发文)
 
+<!-- /code_chunk_output -->
 
-## [前沿资讯](#前沿资讯)
-
-
-## [论文推荐](#论文推荐)
-
-
-## [期刊发文](#期刊发文)
-
-
-<!-- code_chunk_output -->
 ## 相关信息
 
 - [中国农业大学赖锦盛荣获国际玉米研究学术奖项](https://mp.weixin.qq.com/s/0ihiVmsWeb9kyJ_oFRL6tA)
@@ -56,7 +49,6 @@ html:
 ## 前沿资讯
 
 - [【学术前沿】Plant Cell | 中国科学技术大学张志勇团队揭示玉米籽粒灌浆发育调控新机制](https://mp.weixin.qq.com/s/57KNV7FxKymV_9BkSv2P3w)  
-
 - [优化植株冠层结构可提高玉米籽粒产量和资源利用效率](https://mp.weixin.qq.com/s/0PpbRUpX0EpZo25ti-cXQQ)  
 - [【获奖成果】玉米新型育种和制种技术及其应用](https://mp.weixin.qq.com/s/IMTsbbQxwUuPNErEtcR-Dw)
 - [关于玉米育种几个基本问题的思考(南北学院1)关义新](https://mp.weixin.qq.com/s/PBZeOTGqU97l0CX0RMxQXw)  
@@ -264,7 +256,6 @@ html:
 - [JIPB | 上海师范大学揭示FKF1a和FKF1b调控玉米开花的分子机制](https://mp.weixin.qq.com/s/efu_nyMn-tsxSQ78zJuqSQ)
 - [NC | 巫永睿研究组克隆一个将马齿玉米改良成硬粒型玉米的关键基因](https://mp.weixin.qq.com/s/sZuODp8Yvd3ZfgZwKppkpA)
 - [JGG｜华中农大玉米团队综述生物大数据驱动作物智能设计育种](https://mp.weixin.qq.com/s/A7938cmkkKu_9p7hY4TlXQ)
-
 - [中国科学院沈阳应用生态研究所在玉米侧根性状可塑性及权衡关系对耕作制度的响应方面取得进展](https://mp.weixin.qq.com/s/u3maywCFgBJCF1_lXACW2Q)
 - [玉米基部节间发育对茎秆抗倒伏有显著影响](https://mp.weixin.qq.com/s/dc22uFLQzNGWrAXuaxH2Iw)
 - [灌溉、施肥和秸秆管理对中国北方小麦-玉米轮作田氧化亚氮和一氧化氮排放的影响](https://mp.weixin.qq.com/s/Gg9CzKkE5pDkXkbNiKLDBQ)

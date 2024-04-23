@@ -20,12 +20,12 @@ weight = 3
 
 [[main]]
 name = "VARIETIES"
-pageRef = "/blog"
+pageRef = "/variety"
 weight = 3
 
 [[main]]
-name = "GENES"
-pageRef = "/genes"
+name = "GENOMES"
+pageRef = "/genomes"
 weight = 3
 
 [[main]]
@@ -44,25 +44,12 @@ name = "LABS"
 pageRef = "/labs"
 weight = 3
 
-[[main]]
-weight = 4
-name = "PAGES"
-
-[[main]]
-parent = "PAGES"
-name = "Blog"
-pageRef = ""
 
 
 [[main]]
-parent = "PAGES"
-name = "Authors"
-pageRef = "/authors"
-
-[[main]]
-parent = "PAGES"
 name = "Categories"
 pageRef = "/categories"
+weight = 3
 
 
 

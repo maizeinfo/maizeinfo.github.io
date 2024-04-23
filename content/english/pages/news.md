@@ -1,16 +1,21 @@
 ---
-title: "News"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+html:
+    toc: true
+    # number_sections: true
+    toc_depth: 6
+    toc_float: true
+       
+--- 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 
+<!-- code_chunk_output -->
 
-- [大咖线上学术报告 | 严建兵：玉米起源进化的“世纪之争”](https://mp.weixin.qq.com/s/HkVQvIhyTXaO4GIEUVNQ0Q)  
+## [gene](#gene)
+## [学术报告](#学术报告)
+
+<!-- code_chunk_output -->
+## gene
 - [中国农业大学赖锦盛荣获国际玉米研究学术奖项](https://mp.weixin.qq.com/s/0ihiVmsWeb9kyJ_oFRL6tA)
 - [学术时间｜我院王同朝教授小麦玉米抗旱节水栽培团队取得系列重要科研进展](https://mp.weixin.qq.com/s/KPxbZZB_zE8LGO5zIg1PvQ)  
 - [【Nature Communi】河南农业大学苟明月团队发现玉米和拟南芥BR信号通路新成员](https://mp.weixin.qq.com/s/m-h2HwgkAvPXyaOYDpCH2g)  
@@ -24,7 +29,6 @@ draft: false
 - [高校动态 | Science重磅！重新定义玉米起源！刚刚我国农学领域又一篇Science!](https://mp.weixin.qq.com/s/Z-ThEX8RaaJYqiW3tQB0og)  
 - [遵甜糯103荣获“2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛”全国“十佳”糯玉米荣誉称号](https://mp.weixin.qq.com/s/qGcb2DlaL7I-coCSuXQSpQ)  
 - [【学术动态】我院孟庆锋教授课题组揭示我国玉米实现大面积高产的栽培学机制，助力国家玉米单产提升工程](https://mp.weixin.qq.com/s/yu90xcX6s9EyxTFSdmt7DQ)  
-- [12月2日学术报告 | 我国玉米农艺变化与品种创新路径思考](https://mp.weixin.qq.com/s/s4Rz19mZ-XMnj3SRws4dvA)  
 - [学术时间｜河南农业大学玉米栽培团队在丛枝菌根真菌调控农田N2O排放方面取得重大进展](https://mp.weixin.qq.com/s/VGoEvy2pbdGuDgjMlp_idg)  
 - [10.20 学术研讨会 | 玉米抗旱性的遗传解析及基因克隆](https://mp.weixin.qq.com/s/Z7p4JfOxJrnqBKdmF9hUYg)  
 - [【前沿资讯】山东农业大学宋生命科学学院张宪省赵翔宇团队在玉米瘤黑粉病方面取得研究进展](https://mp.weixin.qq.com/s/tjhWM71BCl7aFwwGau8fsg)  
@@ -35,14 +39,14 @@ draft: false
 - [BMC Biology | 曹帅博士等厘清玉米驯化、改良过程中的胞质基因组进化特征](https://mp.weixin.qq.com/s/L2CWmNO6fGP1G73HS16onA)  
 - [2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛在上海召开](https://mp.weixin.qq.com/s/AVhPPLbZxp9rOoG16RipPA)  
 - [它究竟是谁？玉米、包谷、珍珠米、麻薯棒子、苞米……丨芳草萋萋](https://mp.weixin.qq.com/s/yQsJUVyC-841GN51OxpS0A)  
-- [山西农业大学玉米研究所举办智慧育种专题学术报告会](https://mp.weixin.qq.com/s/ZliP7v44BbrLYN1g9QFvJQ)  
+
+## 学术报告
 - [【文献阅读545】NEW PHYTOL | 在长期施肥条件下，玉米的功能需求驱动根际细菌的选择](https://mp.weixin.qq.com/s/a5WDmsDufKTEGk5uvzldkA)  
 - [【征集参展品种】关于征集2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛参展品种的通知](https://mp.weixin.qq.com/s/lOSQ3S8jK3SQkMrrtoPoTA)  
 - [【文献阅读541】更多氮肥、更多玉米、更少苜蓿：玉米单位根长的氮素吸收量更高](https://mp.weixin.qq.com/s/YYR5sEsLWGfWpQy_a6Gt7A)  
 - [优化植株冠层结构可提高玉米籽粒产量和资源利用效率](https://mp.weixin.qq.com/s/0PpbRUpX0EpZo25ti-cXQQ)  
 - [【获奖成果】玉米新型育种和制种技术及其应用](https://mp.weixin.qq.com/s/IMTsbbQxwUuPNErEtcR-Dw)
 - [关于玉米育种几个基本问题的思考(南北学院1)关义新](https://mp.weixin.qq.com/s/PBZeOTGqU97l0CX0RMxQXw)  
-- [学术预告（12月23日）玉米株型驯化的发育机制解析](https://mp.weixin.qq.com/s/YcbGxRAkYZe6iGMkrq-JlA)  
 - [【文献阅读542】减少水氮供应下玉米产量和氮吸收对密度增加的响应](https://mp.weixin.qq.com/s/dIfqCKKZIsTiN2ngMJhxYw)  
 - [作物杂志 | 2023年刊载论文汇总—玉米](https://mp.weixin.qq.com/s/QIxxNp66wBsBw4acmiN-pw)
 - [中国农业大学王伟教授团队到西昌玉米园区开展学术交流与合作](https://mp.weixin.qq.com/s/YfTnXVx61XPMw0mfyIJf5g)  
@@ -52,8 +56,7 @@ draft: false
 - [Nature Comm | 华中农业大学玉米团队解析玉米产量调控新机制](https://mp.weixin.qq.com/s/cyufZeMjWPw4DtG9Box4Bg)  
 - [国际玉米小麦改良中心（CIMMYT）科学家来甘肃中医药大学开展学术交流](https://mp.weixin.qq.com/s/gTE24E9vx9DdZYqRtwdO9w)  
 - [【迎两会·委员风采】全国政协委员严建兵：站在世界玉米研究前沿的“种田农民”](https://mp.weixin.qq.com/s/p9dZewWaKJg1_HexGcfSBQ)  
-- [论文推荐|深松耕作对夏玉米增密增产的调控机制研究](https://mp.weixin.qq.com/s/j0BZg60ayhtjxGj0Ag45CQ)  
-- [中国农业科学院李少昆研究员为我校作学术报告并参观考察玉米试验田](https://mp.weixin.qq.com/s/wrvEvofznY72JGv3dfvSUQ)  
+- [论文推荐|深松耕作对夏玉米增密增产的调控机制研究](https://mp.weixin.qq.com/s/j0BZg60ayhtjxGj0Ag45CQ)   
 - [玉米栽培新技术的研究与展望](https://mp.weixin.qq.com/s/rbKZzZJNbq4mWElJTC-Nrw)  
 - [JIA | 玉米研究文章精选](https://mp.weixin.qq.com/s/wY-pTcRPajsYld_fplXdXg)  
 - [Genome Biology | 华中农业大学玉米研究团队跨学科合作开发出玉米杂种优势利用“新钥匙”](https://mp.weixin.qq.com/s/ErANgZeXgvqHWsYEw8eZ7w)  
@@ -62,17 +65,10 @@ draft: false
 - [热烈祝贺《玉米科学》执行主编李万良获第六届吉林省新闻出版奖-优秀人物奖！](https://mp.weixin.qq.com/s/N-EJ26boxGAHBFfsoyM8Dg)  
 - [重大突破！中国农科院创新玉米栽培技术体系，刷新全国玉米高产记录！](https://mp.weixin.qq.com/s/YzDkIS8Q6EE1ARfF22YW1Q)  
 - [【论文背后的故事】四川农业大学玉米栽培团队](https://mp.weixin.qq.com/s/cC0IO2DHKk3M2djpoA0fNA)  
-- [学术晚茶｜“爱上玉米”](https://mp.weixin.qq.com/s/l-ObCPppjO9Z4TViPEQ0RA)  
 - [玉米与学术的结合|在UIUC就读是一种怎样的体验？](https://mp.weixin.qq.com/s/QQ1ixL5RinE2Aw0Us2_GPw)  
-- [【会议】第四届全国玉米生物学学术研讨会通知](https://mp.weixin.qq.com/s/ogHCTZlnI-nfuQGWbo60JQ)
-- [必读！近三年我国玉米研究进展系统总结！中农及华中农大两家独大！值得收藏！](https://mp.weixin.qq.com/s/rl9FzUzAjJ4o3VyWvD56Hw)  
 - [实用！玉米最大插入突变库ChinaMu！215,889个高质量的可遗传插入](https://mp.weixin.qq.com/s/q40atiJeQapyY44CTa3dHw)  
 - [JIA | 中国农业大学农学院周顺利教授团队||阶段高温对玉米节间可塑性和株型的时序效应研究](https://mp.weixin.qq.com/s/7CF41YJxjxKHqL-SK49Odw)  
 - [思农学术论坛 | 徐明良教授：玉米灰斑病抗病基因的分子机制](https://mp.weixin.qq.com/s/DpPiF57-9tQV9YT8mcvM5A)  
-- [第七届全国玉米生物学学术研讨会第二轮通知](https://mp.weixin.qq.com/s/po2RoIRq3EcicxrD_BmZ1w)  
-- [会议 |《玉米科学》在第十七届全国玉米栽培学术研讨会上宣介期刊成就](https://mp.weixin.qq.com/s/63ygA_0P5olFRZsgg3U-wQ)  
-- [第十七届全国玉米栽培学术研讨会成功举办](https://mp.weixin.qq.com/s/6RqYah7kaIOJQxDjSjO4lw)
-- [【要闻】2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛在上海召开](https://mp.weixin.qq.com/s/Eb74UX1jJb7sJ0-hqGA-8w)  
 - [《腐植酸》|| 研究论文--腐植酸控释掺混肥对玉米产量及土壤肥力的影响研究](https://mp.weixin.qq.com/s/fuW0vmZIaZHuM8T9iI0y6w)  
 - [《节水灌溉》优秀论文推荐|《陇中地区典型玉米农田生态系统呼吸作用对温湿度的响应研究》](https://mp.weixin.qq.com/s/BxBc6Fubc9v7DkzF4HgqSg)  
 - [论文精选 | 猪粪沼液对玉米产量及土壤理化性状的影响研究](https://mp.weixin.qq.com/s/8dSIS_iRGblE0UYjFbqZOw)  
@@ -125,7 +121,6 @@ draft: false
 - [甘肃拟审定通过主要农作物品种151个，涉及小麦、玉米.](https://mp.weixin.qq.com/s/E0LVyneG6cXEsVfKuHgrOA)
 - [玉米（6次）、水稻（5次）、大豆（3次）、小麦（5次）品种的更新换代历程](https://mp.weixin.qq.com/s/Q1dEvESi3KGZ5E0o5V2TqQ)
 - [中国的转基因大豆和玉米种植是否已开放？农业农村部回应](https://mp.weixin.qq.com/s/ZVHJKKFwiLXVzdUG78tFBQ)
-- [https://mp.weixin.qq.com/s/ZVHJKKFwiLXVzdUG78tFBQ](https://mp.weixin.qq.com/s/e3jXUE7Yjj7nJDm_InWw9w)
 - [Nature Communications | 河南农业大学苟明月团队发现玉米和拟南芥BR信号通路新成员](https://mp.weixin.qq.com/s/eU5z0IRBIKg72MYtQYtpkQ)
 - [中国农业大学赖锦盛荣获国际玉米研究学术奖项](https://mp.weixin.qq.com/s/0ihiVmsWeb9kyJ_oFRL6tA)
 - [PBJ | 中国农大杨小红团队基于连锁分析和关联分析系统解析玉米籽粒类胡萝卜素变异的遗传基础](https://mp.weixin.qq.com/s/OH6Spv2tVXrhPbHYm1uisg)
@@ -141,8 +136,6 @@ draft: false
 - [Nature Genetics | 中国农业大学徐明良课题组在玉米抗病研究中取得重大突破](https://mp.weixin.qq.com/s/h5CW2H4-AaWoqsOwAHPIJA)
 - [Plant Physiology | 河南农业大学苟明月课题组联合中国农科院郑军课题组在玉米角质层蜡质代谢研究中取得新进展](https://mp.weixin.qq.com/s/900BLW44mrvVu0QImojO6w)
 - [Nat Communi | 中国农大揭示玉米胚乳单细胞分辨率的转录图谱和基因调控网络](https://mp.weixin.qq.com/s/jcX1Xzm-r3eDBKMUGtirAw)
-- [直播回放 | 玉米团长赵久然学术报告](https://mp.weixin.qq.com/s/akAma11rsMu_xY6nY0ieyQ)
-- [【学术动态】我院孟庆锋教授课题组揭示我国玉米实现大面积高产的栽培学机制，助力国家玉米单产提升工程](https://mp.weixin.qq.com/s/akAma11rsMu_xY6nY0ieyQ)
 - [中国农业大学张福锁院士团队李学贤课题组揭示施肥对作物营养品质的影响](https://mp.weixin.qq.com/s/L0EOXpO896mL-oqevDNhYA)
 - [Nature Commun | 王文琴/巫永睿合作揭示玉米灌浆期的关键细胞亚群](https://mp.weixin.qq.com/s/3mZ57kmyIaHXRSh96JVOaw)
 - [三个月两篇顶刊，深耕玉米研究领域，华中农大严建兵教授获国际学术奖](https://mp.weixin.qq.com/s/zux1BDrHFgeJhnAO88ZNVQ)
@@ -167,7 +160,6 @@ draft: false
 - [山东农业大学李向东/田延平团队揭示玉米三酰基甘油脂酶蛋白抑制甘蔗花叶病毒的机制](https://mp.weixin.qq.com/s/G2aSaoWeX4_b6K4Fdmefxg)
 - [Plant Cell | 中科院遗传发育所陈化榜研究组揭示小分子代谢物调控玉米雌穗发育的新机制](https://mp.weixin.qq.com/s/AEJR4y6jMnn4Pohw4oKM5Q)
 - [玉米B染色体——并不完全“惰性”的“非必要”染色体](https://mp.weixin.qq.com/s/o4WAZPRjMEDIcl7fd04yig)
-- [植物育种简史——什么是植物育种？](https://mp.weixin.qq.com/s/TNcHSwGJHOUmU0Er1W4htA)
 - [植物育种简史——什么是植物育种？](https://mp.weixin.qq.com/s/TNcHSwGJHOUmU0Er1W4htA)
 - [Nature Plants | 中国农业大学宋伟彬课题组发现玉米单倍体诱导新基因——ZmPLD3](https://mp.weixin.qq.com/s/N3qk8GJfsEi58SqxXHnDbg)
 - [Plant Physiol | 中国农科院生物所王磊/徐妙云团队发现miRNA提高玉米耐盐性的新机制](https://mp.weixin.qq.com/s/VB-pqovezMIGpRyQAC0nGw)
@@ -221,25 +213,17 @@ draft: false
 - [Nature Plants | 于鹏团队揭示地方适应玉米品种的可遗传微生物组变异与源环境相关](https://mp.weixin.qq.com/s/1E9H_AeC7WyruN4kYyz2xg)
 - [ISME Com. ｜玉米基因型影响根际细菌和病毒群落结构（野生玉米vsB73）](https://mp.weixin.qq.com/s/NYTLNolf3k5o4ARrjTAkaw)
 - [JIPB | 通过抑制粘液分泌负调控基因ZmSBT3增强玉米固氮潜能](https://mp.weixin.qq.com/s/wZNULq9D-84qxxuLNzO2RQ)
-- [学术报告 | 严建兵教授：从玉米遗传改良看中国粮食安全的挑战和机遇](https://mp.weixin.qq.com/s/LVhyOQDGEgXzofMeS57jvw)
 - [Nature Commun | 微生物组的趋同性使得分泌铁载体的根际细菌能够改善玉米间作的花生的铁营养和产量](https://mp.weixin.qq.com/s/gVT9s32aEqO4Z0SSOVEn9g)
 - [ISME Com. ｜玉米基因型影响根际细菌和病毒群落结构（野生玉米vsB73）](https://mp.weixin.qq.com/s/NYTLNolf3k5o4ARrjTAkaw)
 - [JIPB | 通过抑制粘液分泌负调控基因ZmSBT3增强玉米固氮潜能](https://mp.weixin.qq.com/s/wZNULq9D-84qxxuLNzO2RQ)
-- [学术报告 | 严建兵教授：从玉米遗传改良看中国粮食安全的挑战和机遇](https://mp.weixin.qq.com/s/LVhyOQDGEgXzofMeS57jvw)
 - [PC | 中国科学技术大学张志勇团队揭示玉米籽粒灌浆发育调控新机制](https://mp.weixin.qq.com/s/-0nU-aa-j7lbWvz_iC3-iQ)
 - [【文献推荐】Field Crops Research：玉米/苜蓿间作提高了作物产量和磷吸收量](https://mp.weixin.qq.com/s/Zg7BVpND0m7INMBP3EjMzw)
-- [【课题组进展】Plant and Soil：玉米/豆科间作中残茬的功能差异性促进秸秆分解的碳氮释放，但并不影响根茬的分解](https://mp.weixin.qq.com/s/hRqDNhySfmGEQBbr97EYlg)
-- [【课题组进展】Field Crops Research：间作通过种间促进作用改善玉米微量元素吸收并降低锈病](https://mp.weixin.qq.com/s/erjuOM-515_hcwUtTgcxrg)
 - [【文献推荐】Soil & Tillage Research：刚果草不同种植时间对玉米/刚果草体系土壤物理性质的短期影响](https://mp.weixin.qq.com/s/dBF3DmsBDTGH_b5YT5hoWA)
 - [“科创中国”作物多样性种植专业服务团团长调研和指导黑土区玉米/豆科间作种植](https://mp.weixin.qq.com/s/i0j3IpEva5iTu6or3-B34A)
 - [“科创中国”作物多样性种植专业服务团开展黑土区玉米大豆带状复合种植调研](https://mp.weixin.qq.com/s/vU5xcHTue_QgtnjRlTiKTg)
-- [【课题组进展】Field Crops Research: 玉米品种混作在雨养条件下通过增加种内促进作用增加生产力时间稳定性](https://mp.weixin.qq.com/s/uNIAq2_wp2-DMLbvzDo38g)
 - [【文献推荐】Soil & Tillage Research：边行效应对玉米/大豆带状种植系统根系和土壤资源分布的影响](https://mp.weixin.qq.com/s/yrhjSwxLhbDxM3rgdUKF-Q)
 - [“科创中国”作物多样性种植专业服务团助力安居区大豆玉米带状复合种植遍地开花](https://mp.weixin.qq.com/s/x7yYT4_GrpDxcbUhXjwHmA)
-- [【课题组进展】FRONT PLANT SCI：玉米/花生相比于玉米/大豆在秸秆分解时具有更大的混合效应和主场优势](https://mp.weixin.qq.com/s/jsAceIot9FEXOqb88VyJpg)
-- [【课题组进展】Field Crops Research：间作玉米的竞争恢复和超产依赖于种间时间互补和氮素供给](https://mp.weixin.qq.com/s/bHhbhND37pElYHPGml74lA)
 - [【文献推荐】SSSAJ: 生物耕作通过覆盖作物改善压实土壤的物理性质和玉米生长](https://mp.weixin.qq.com/s/7YwyuSJogqP6QTpH0xRuGQ)
-- [【课题组进展】Field Crops Research：抵抗还是投降：与玉米间作的大豆和花生功能性状的不同响应](https://mp.weixin.qq.com/s/4qwZykGEBlVaWEcRthzaFw)
 - [【文献推荐】苍术/玉米间作增加了植物根际促生菌，从而促进了苍术的生长和挥发油的积累](https://mp.weixin.qq.com/s/uKdSdQGjT2zLlVsJzz_RUQ)
 - [“科创中国”作物多样性种植专业服务团助力河西走廊农牧企业饲用玉米生产提质增效](https://mp.weixin.qq.com/s/ZJ7vGZWZYKEgoqB2ZtPi8g)
 - [【文献推荐】Agronomy for Sustainable Development：中非玉米/粮用豆科间作的产量和肥料效益](https://mp.weixin.qq.com/s/EiZG-LpyzxyEpugMcqQpiw)
@@ -248,7 +232,6 @@ draft: false
 - [【文献推荐】Field Crops Research：间作调节玉米和花生干物质和氮素的积累和转运](https://mp.weixin.qq.com/s/b2h7LVbg-KAW4XMQBEAHTg)
 - [【文献推荐】Plant and Soil: 玉米/大豆间作通过驱动菌根真菌增加了中国东北黑土团聚体稳定性](https://mp.weixin.qq.com/s/UuwD2GgfM1JWrCuBVRPu_A)
 - [【文献推荐】Geoderma：土壤酸化改良促进了短期大豆与玉米/大黍间作体系轮作土壤碳氮循环](https://mp.weixin.qq.com/s/NSysZqQ_WVDQJ3AfB1N27w)
-- [【课题组进展】Functional Ecology: 根系性状的可塑性和相异性促进了玉米/豆科体系的间作优势](https://mp.weixin.qq.com/s/lvO_af4pef2L5gKLjBUjyg)
 - [【文献推荐】Soil Biology and Biochemistry：热带牧草-玉米间作系统土壤氮循环功能基因和N2O排放](https://mp.weixin.qq.com/s/XwkA1rH41iBYvpe0SF_0OQ)
 - [【文献推荐】Agricultural Systems：华北平原苜蓿/青贮玉米间作体系不影响产量且减小环境代价](https://mp.weixin.qq.com/s/tKXccw-lD-I_EbOmpjqTUw)
 - [【文献推荐】耕作方式与种植密度结合提高了西北绿洲灌区玉米/豌豆间作的产量并减少了碳排放](https://mp.weixin.qq.com/s/jk67OXi8ZIQdL_TpTTk-Bg)
@@ -256,9 +239,7 @@ draft: false
 - [【文献推荐】Scientific Reports：秸秆和覆膜管理提高作物产量，减少小麦/玉米间作体系的二氧化碳排放](https://mp.weixin.qq.com/s/UfHRLT5tqc9XmcBIrTu_RQ)
 - [【文献推荐】Journal of Cleaner Production：间作提高半干旱地区玉米/大豆体系土地生产力和水分利用效率](https://mp.weixin.qq.com/s/su06g1c18zfMULY8xcG2VA)
 - [【文献推荐】Journal of Integrative Agriculture：玉米/苜蓿间作增加氮素的获取和转移应对种间竞争](https://mp.weixin.qq.com/s/RI-_HFcqJKB1vroOq0gUAA)
-- [【课题组进展】JAE：玉米/豆科间作体系在不施氮时通过补偿效应而在施氮时通过选择效应来维持高的生产力](https://mp.weixin.qq.com/s/Eqxmp7qBiEvvmlenr6fmpg)
 - [【文献推荐】Agronomy for Sustainable Development：缓解青贮玉米/高羊茅间作中的竞争](https://mp.weixin.qq.com/s/Z7XWVxmc9t1dZVafjss7qg)
-- [【课题组进展】Soil and Tillage Research：新开垦土壤上玉米/蚕豆间作接种根瘤菌可提高生产力和共生固氮能力](https://mp.weixin.qq.com/s/LuZgl2HCQGyG2ci1xFMW_A)
 - [【文献推荐】European Journal of Agronomy：钙质土中花生/玉米间作系统对铁和氮利用的互作机制](https://mp.weixin.qq.com/s/ZY4yJMRj_6NYiZ-pZECp1w)
 - [【文献推荐】Field Crops Research：玉米豇豆间作提高了体系生产力，但并非是贫瘠土壤的最优解](https://mp.weixin.qq.com/s/fihSD9Geur57sXn2qBrQcw)
 - [【文献推荐】Field Crops Research: 边行比例对玉米/花生间作系统产量和种间相互作用的影响](https://mp.weixin.qq.com/s/dpkeJQAcigEESOqPqefohg)
@@ -393,7 +374,6 @@ draft: false
 - [去年今日Mol Plant | 解析玉米单倍体诱导分子机制，创新单倍体诱导方法](https://mp.weixin.qq.com/s/7iLVf605_m41NVkjZwq_zw)
 - [Mol Plant | 中国农业大学蒋才富和张敬波团队合作揭示细胞分裂素调控玉米耐盐的新机制](https://mp.weixin.qq.com/s/7PXRM0JtcTZjAZa76rKz3Q)
 - [去年今日Plant Com | 北京农林科学院玉米所开发基于玉米单倍型标签多态性的基因组学数据库及分析工具](https://mp.weixin.qq.com/s/by3NokmXRy3ltb1Z8gpGvw)
-- [明日讲座 | 基于生物大数据的玉米重要农艺性状解析与智能育种](https://mp.weixin.qq.com/s/0UJTuSQuuYjPr7KU0w11mg)
 - [去年今日Mol Plant | 河南农业大学丁俊强教授课题组在玉米南方锈病抗病基因克隆和分子机制研究方面取得重要进展](https://mp.weixin.qq.com/s/M7IBCrwdjDYvxzv8IwkO1w)
 - [Nature Plants｜美国研究人员建立了可广泛应用于禾本科植物的高效玉米叶片转化方法](https://mp.weixin.qq.com/s/w1jrQCgjf7s_U8RMSXQBFg)
 - [探讨育种CRO体系，提升我国种业工程化水平](https://mp.weixin.qq.com/s/hNyukAvU9-yrCryTZrJnOA)

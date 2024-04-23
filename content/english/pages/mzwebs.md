@@ -25,7 +25,7 @@ draft: false
 - [MaizeDig:Database of Images & Genomes](https://maizedig.maizegdb.org/index.html)  
 - [maize:Maize Genomics Resource](http://maize.uga.edu/)  
 - [MaizeNetome: The web can help to assist mutant/QTL cloning, and systematically dissect possible molecular mechanisms conferring agronomic important traits.](https://academic.oup.com/database/article/doi/10.1093/database/baaa044/5857845)  
-- [](http://minteractome.ncpgr.cn/)  
+- [MaizeNetome：](http://minteractome.ncpgr.cn/)  
 - [](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-580)  
 - [MaizeNet: For Network-assisted systems genetics analysis in Z. mays](https://www.inetbio.org/maizenet/about.php)  
 - [EMBL-EBI:Unleashing the potential of big data in biology](http://www.ebi.ac.uk/)  

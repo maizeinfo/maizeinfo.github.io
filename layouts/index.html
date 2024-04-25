@@ -1,7 +1,7 @@
 {{ define "main" }}
   <!-- Banner -->
  {{ with .Params.banner }}
-    <!--  <section class="section pt-14">
+    <section class="section pt-14">
       <div class="container">
         <div class="row justify-center">
          <div class="lg:col-7 md:col-9 mb-8 text-center">
@@ -25,12 +25,13 @@
               {{ end }}
             {{ end }}
          </div>
+         <!--
          <div class="col-12">
            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
               </div> 
-        </div>
+        </div> -->
       </div> 
-    </section> -->
+    </section>
    {{ else }}
     <h2>Welcome to Maizeinfo!</h2>
     <p>Development of a corn comprehensive information database.</p>
@@ -84,7 +85,7 @@
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
-      <section class="section">
+      {{/* <section class="section">
         <div class="container">
           <div class="row">
             <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
@@ -140,7 +141,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> */}}
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->

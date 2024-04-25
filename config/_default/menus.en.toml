@@ -45,12 +45,6 @@ pageRef = "/labs"
 weight = 3
 
 
-[[main]]
-name = "Categories"
-pageRef = "/categories"
-weight = 3
-
-
 
 
 

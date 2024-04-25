@@ -1,5 +1,5 @@
 ---
-title: "Labs"
+title: ""
 # meta title
 meta_title: ""
 # meta description

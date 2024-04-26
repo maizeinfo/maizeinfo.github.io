@@ -7,11 +7,14 @@
 {{ $lower_limit := (add $adjacent_links 1) }}
 <!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
 {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
   <nav
     class="flex items-center justify-center space-x-3"
     aria-label="Pagination">
+    
+    <div style="text-align: left; display: block;">Total pages: {{ $paginator.TotalPages }}</div>
     <!-- Previous page. -->
     {{ if $paginator.HasPrev }}
       <a
@@ -48,7 +51,7 @@
       </span>
     {{ end }}
 
-
+   
     <!-- Page numbers -->
     {{ range $paginator.Pagers }}
       {{ $.Scratch.Set "page_number_flag" false }}
@@ -134,5 +137,32 @@
         </svg>
       </span>
     {{ end }}
+    <button id="jumpBtn" class="rounded px-2 py-1 bg-primary text-white ">Go to page</button>
+    <input type="number" id="pageInput" min="1" max="94" placeholder="1" class="rounded px-2 py-1 text-center" style="border-width: 1px; border-color: #6b7280;" onfocus="this.placeholder=''" onblur="this.placeholder='1'">
   </nav>
 {{ end }}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('jumpBtn').addEventListener('click', function() {
+      var pageInput = document.getElementById('pageInput').value;
+      var totalPages =  {{ $paginator.TotalPages }} ;
+      
+      if (pageInput >= 1 && pageInput <= totalPages) {
+          var url = "\/variety\/";
+          
+          if (url.includes("1")) {
+              
+              url = url.replace("1", pageInput);
+          } else {
+              
+              url += "/page/" + pageInput;
+          }
+          
+          window.location.href = url;
+      } else {
+          alert("Invalid page number!");
+      }
+  });
+});
+      </script>

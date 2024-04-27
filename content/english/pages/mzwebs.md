@@ -7,7 +7,7 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-
+## MAIZE RESOURCE
 - [Maizego：Yan's lab for maize genetics and molecular breeding.](http://www.maizego.org/Resources.html)  
 - [First Maize PHG Database](https://www.maizegenetics.net/post/the-first-maize-phg-database-now-available)
 - [MaizeCUBIC](http://cubicmaize.hzau.edu.cn/)
@@ -43,5 +43,39 @@ draft: false
 - [Bio Soft:生物软件集成](http://www.nslij-genetics.org/soft/)  
 - [Plant Stress:作物研究的必然方向](http://www.plantstress.com/)  
 - [CSH Protocol:实验操作手册的圣经诞生地](http://cshprotocols.cshlp.org/)  
-- []()  
-- []()  
+- [中国玉米品种系谱数据库:玉米品种的全部亲本&玉米品种全部子代信息](http://www.maizedata.cn/?erowr)  
+- [玉米科学](http://www.ymkx.com.cn/jms/home)  
+- [McCORMICK:All the latest data on maize production around the world](https://www.mccormick.it/za/all-the-latest-data-on-maize-production-around-the-world/)  
+- [Kew](https://www.kew.org/plants/maize)  
+- [EIKIPEDIA:the free encyclopedia that anyone can edit.
+6,817,394 articles in English](https://en.wikipedia.org/wiki/Main_Page)  
+- [China Mu Project:ChinaMu是利用玉米内源转座子Mutator在全基因组范围内诱变的玉米突变体库。](http://chinamu.jaas.ac.cn/cindex.html)  
+- [Database Commons:a catalog of worldwide biological databases](https://ngdc.cncb.ac.cn/databasecommons/search?term=maize)  
+- [IOWA STATE UNIVERSITY:研究玉米的一生和玉米起源的历史。](http://www.agronext.iastate.edu/corn/)  
+- [GRAMENE:做玉米比较基因组学必备的网站，更新非常快](http://www.gramene.org/)  
+- [WebFPC :MAIZE玉米物理图谱网站](http://www.genome.arizona.edu/fpc/WebAGCoL/maize/WebFPC/)  
+- [PANZEA:研究玉米基因组分子和功能多样性](http://www.panzea.org/)  
+- [CIMMYT](https://www.cimmyt.org/)   
+- [ncga:玉米育种及分子方面的一些知识](http://www.ncga.com/education/main/index.html)  
+- [gramene](https://ensembl.gramene.org/Zea_mays/Info/Index)  
+- [JCVI:Maize Cell Genomics: Resources for Visualizing Promoter Activity and Protein Dynamics Using Fluorescent Protein Lines](https://www.jcvi.org/research/maize-cell-genomics-resources-visualizing-promoter-activity-and-protein-dynamics-using)  
+- [National Corn Growers Association （NCGA）](http://www.ncga.com/home)
+- [American Corn Growers Association (ACGA) ](http://www.acgf.org/)
+
+
+## 玉米相关工具网站
+- [NCBI](http://www.ncbi.nlm.nih.gov/)  
+- [The new GENSCAN Web server at MIT](http://genes.mit.edu/GENSCAN.html)  
+- [Cold spring harbor protocols：实验操作手册](http://www.cshprotocols.org/)  
+- [Genetic Analysis Software：生物软件集成](http://www.nslij-genetics.org/soft/)  
+- [genscan：基因预测的工具](http://genes.mit.edu/GENSCAN.html)  
+- [NCBI的PubMed 工具](http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&db=pubmed)  
+- [Plant stress作物研究的必然方向](http://www.plantstress.com/)  
+- [PROTOCOL ONLINE:几乎所有的涉及生物方面分析的PROtocol、生物软件、生物信息分析、生物产品、论坛、blog、、、、、等，还包括文章推荐和PUBalert类似于my NCBI、、、、是一个超强的生物站点](http://www.protocol-online.org/)  
+- [university of groningen:计算生物学](http://www.rug.nl/gbb/index)  
+
+
+
+
+
+- 

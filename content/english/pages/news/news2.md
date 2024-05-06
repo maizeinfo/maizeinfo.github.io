@@ -6,4 +6,5 @@
 - [重磅！中国农科院最新Science | 玉米研究再登顶刊](https://mp.weixin.qq.com/s/NmQnfw6xMHtU587SsTuuzw)  
 - [玉米起源进化的“世纪之争”——技术进步和学科交叉如何解决重大科学问题](https://mp.weixin.qq.com/s/09sOn3CgKnImtoToSrTU2Q)  
 - [高校动态 | Science重磅！重新定义玉米起源！刚刚我国农学领域又一篇Science!](https://mp.weixin.qq.com/s/Z-ThEX8RaaJYqiW3tQB0og) 
-- [中国玉米界首篇Nature，近10年的科研背后故事更精彩](https://mp.weixin.qq.com/s/BiFlou7d958ul25TnufHvA)
+- [中国玉米界首篇Nature，近10年的科研背后故事更精彩](https://mp.weixin.qq.com/s/BiFlou7d958ul25TnufHvA)  
+- [近期发表5篇学术论文！北京市农林科学院赵久然团队在玉米研究方面取得系列进展](https://mp.weixin.qq.com/s/RzJqeVKLVzaejNjfzaTkUw)   

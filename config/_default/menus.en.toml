@@ -23,24 +23,51 @@ name = "RESOURCES"
 
 [[main]]
 parent = "RESOURCES"
-name = "MZWEBS"
-pageRef = "/mzwebs"
+name = "Maize obline resource"
+pageRef = "/mzor"
 weight = 2
 
 [[main]]
 parent = "RESOURCES"
-name = "LABS"
-pageRef = "/labs"
+name = "Maize lab"
+pageRef = "/Maize lab"
 weight = 3
 
 [[main]]
-weight = 2
+weight = 5
 name = "NEWS"
 
 [[main]]
-name = "NEWS"
-pageRef = "/news"
+parent = "NEWS"
+name = "科研人物"
+pageRef = "/news1"
 weight = 3
+
+[[main]]
+parent = "NEWS"
+name = "科研动态"
+pageRef = "/news2"
+weight = 3
+
+[[main]]
+parent = "NEWS"
+name = "论文推荐"
+pageRef = "/news3"
+weight = 3
+
+[[main]]
+parent = "NEWS"
+name = "育种动态"
+pageRef = "/news4"
+weight = 3
+
+[[main]]
+parent = "NEWS"
+name = "玉米生产"
+pageRef = "/news5"
+weight = 3
+
+
 
 [[main]]
 name = "LITERATURE"

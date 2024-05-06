@@ -19,32 +19,26 @@ print_background: true
 
 ### 相关信息
 
-- [中国农业大学赖锦盛荣获国际玉米研究学术奖项](https://mp.weixin.qq.com/s/0ihiVmsWeb9kyJ_oFRL6tA)
+
 - [专家评述Science | 是金子无论在何处都发光：玉米和水稻驯化中的趋同选择](https://mp.weixin.qq.com/s/bdPdLRofEaotBrV4enyIOA)
 - [学术时间｜我院王同朝教授小麦玉米抗旱节水栽培团队取得系列重要科研进展](https://mp.weixin.qq.com/s/KPxbZZB_zE8LGO5zIg1PvQ)  
-- [一个优良玉米自交系RP125的高质量基因组组装和表型变异丰富突变体库创制，助力玉米功能基因组研究和作物改良](https://mp.weixin.qq.com/s/fRq1dtbn0VDW-0_qoiP9eA) 
+
 - [思农学术论坛 | 李文学研究员: 玉米籽粒富集铁基因的挖掘及其利用](https://mp.weixin.qq.com/s/5Ru668mNRG8M3B9rmSBZ0g)  
 - [在玉米遗传学领域作出突出贡献！中国农业大学教授荣获国际学术奖](https://mp.weixin.qq.com/s/z13PwgNlgc9oR9WHQ8YKkw)  
 - [中国农业大学贺岩课题组在调控玉米苞叶层数自然变异的研究上取得重要进展](https://mp.weixin.qq.com/s/SlwzUkYwmrkH1jO8TkhVMA)  
-- [重磅！中国农科院最新Science | 玉米研究再登顶刊](https://mp.weixin.qq.com/s/NmQnfw6xMHtU587SsTuuzw)  
-- [玉米起源进化的“世纪之争”——技术进步和学科交叉如何解决重大科学问题](https://mp.weixin.qq.com/s/09sOn3CgKnImtoToSrTU2Q)  
-- [科研进展 | 玉米所在国际土壤学顶级学术期刊报道了不同形式的磷结合根系分泌物对磷有效性的影响](https://mp.weixin.qq.com/s/vDCuFfZO7IuBlYaMuGIUrw)  
-- [高校动态 | Science重磅！重新定义玉米起源！刚刚我国农学领域又一篇Science!](https://mp.weixin.qq.com/s/Z-ThEX8RaaJYqiW3tQB0og)  
-- [遵甜糯103荣获“2022年全国鲜食玉米学术与产业研讨会暨长三角鲜食玉米高峰论坛”全国“十佳”糯玉米荣誉称号](https://mp.weixin.qq.com/s/qGcb2DlaL7I-coCSuXQSpQ)  
-- [【学术动态】我院孟庆锋教授课题组揭示我国玉米实现大面积高产的栽培学机制，助力国家玉米单产提升工程](https://mp.weixin.qq.com/s/yu90xcX6s9EyxTFSdmt7DQ)  
-- [学术时间｜河南农业大学玉米栽培团队在丛枝菌根真菌调控农田N2O排放方面取得重大进展](https://mp.weixin.qq.com/s/VGoEvy2pbdGuDgjMlp_idg)  
-- [【前沿资讯】山东农业大学宋生命科学学院张宪省赵翔宇团队在玉米瘤黑粉病方面取得研究进展](https://mp.weixin.qq.com/s/tjhWM71BCl7aFwwGau8fsg)  
-- [学术观点 | 枣彬吉：葛浩文夫妇英译《玉米》中的形貌修辞研究](https://mp.weixin.qq.com/s/ujDQFZJPe-aVc7dy6ZEfeA)  
-- [近期发表5篇学术论文！北京市农林科学院赵久然团队在玉米研究方面取得系列进展](https://mp.weixin.qq.com/s/RzJqeVKLVzaejNjfzaTkUw)  
-- [博士毕业于南京农业大学，主攻研究玉米抗病遗传育种，她“情”定河南农大！](https://mp.weixin.qq.com/s/Rcb7Nku_mbovVpBHHVZ8ew)  
+ 
+
+
+
+- [近期发表5篇学术论文！北京市农林科学院赵久然团队在玉米研究方面取得系列进展](https://mp.weixin.qq.com/s/RzJqeVKLVzaejNjfzaTkUw)   
 - [它究竟是谁？玉米、包谷、珍珠米、麻薯棒子、苞米……丨芳草萋萋](https://mp.weixin.qq.com/s/yQsJUVyC-841GN51OxpS0A)  
 - [人物 | 斯坦福大学玉米遗传学家Virginia Walbot](https://mp.weixin.qq.com/s/4cCy4ldKG_AsJe-f7si2hA)  
 - [“科创中国”作物多样性种植专业服务团团长调研和指导黑土区玉米/豆科间作种植](https://mp.weixin.qq.com/s/i0j3IpEva5iTu6or3-B34A)
 - [“科创中国”作物多样性种植专业服务团开展黑土区玉米大豆带状复合种植调研](https://mp.weixin.qq.com/s/vU5xcHTue_QgtnjRlTiKTg)
 - [“科创中国”作物多样性种植专业服务团助力安居区大豆玉米带状复合种植遍地开花](https://mp.weixin.qq.com/s/x7yYT4_GrpDxcbUhXjwHmA)
 - [“科创中国”作物多样性种植专业服务团助力河西走廊农牧企业饲用玉米生产提质增效](https://mp.weixin.qq.com/s/ZJ7vGZWZYKEgoqB2ZtPi8g)  
-- [中国玉米界首篇Nature，近10年的科研背后故事更精彩](https://mp.weixin.qq.com/s/BiFlou7d958ul25TnufHvA)
-- [人物 | David Stuart Letham：你好哇！“玉米味儿”的细胞分裂素](https://mp.weixin.qq.com/s/4SOLHeSdQ2Oswdz5dVkaRQ)
+
+
 - 
 ### 前沿资讯
 
@@ -83,7 +77,7 @@ print_background: true
 - [北京科技大学在一区top期刊（IF=11.1）发文揭示全球玉米大豆间作和轮作如何贡献粮食安全与环境可持续性](https://mp.weixin.qq.com/s/o0eYzcwWOgOh2LJgxZjcgQ)  
 
 - [热点评述 | 现代玉米起源新见解——两类大刍草的混血](https://mp.weixin.qq.com/s/TuRvZWdQXTziqEAHL6JMug)  
-- [专辑速递 || 2020—2023年“玉米”论文集锦](https://mp.weixin.qq.com/s/Ckg_zQM-hbSLTZIP7CFtUw)  
+
 
 - [四川农业大学青年教师以共同一作在国际著名期刊上发表研究论文，在玉米种子萌发调控研究中取得新进展](https://mp.weixin.qq.com/s/Co0bUns7PgtghyvlF9d2mg)  
 

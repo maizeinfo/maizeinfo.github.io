@@ -49,3 +49,4 @@
 - [论文推荐|夏玉米品种田间耐盐性综合评价及鉴选](https://mp.weixin.qq.com/s/lWwdLje1iPKiE5KLZ51bkQ)  
 - [ESI高被引论文 | 气候变化和极端气候对中国长江流域玉米和水稻的影响](https://mp.weixin.qq.com/s/MO_o6WfUHkKQF3H5bruClw)  
 - [期刊文章 | 中国玉米种子质量：十年变迁和未来展望](https://mp.weixin.qq.com/s/AYMi1ktua4H6ujEr4NIMRQ)  
+- [专辑速递 || 2020—2023年“玉米”论文集锦](https://mp.weixin.qq.com/s/Ckg_zQM-hbSLTZIP7CFtUw)  

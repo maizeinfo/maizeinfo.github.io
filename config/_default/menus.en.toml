@@ -7,17 +7,6 @@ pageRef = "/"
 weight = 1
 
 
-
-[[main]]
-name = "LITERATURE"
-pageRef = "/literature"
-weight = 2
-
-[[main]]
-name = "NEWS"
-pageRef = "/news"
-weight = 3
-
 [[main]]
 name = "VARIETIES"
 pageRef = "/variety"
@@ -43,6 +32,27 @@ parent = "RESOURCES"
 name = "LABS"
 pageRef = "/labs"
 weight = 3
+
+[[main]]
+weight = 2
+name = "NEWS"
+
+[[main]]
+name = "NEWS"
+pageRef = "/news"
+weight = 3
+
+[[main]]
+name = "LITERATURE"
+pageRef = "/literature"
+weight = 2
+
+
+
+
+
+
+
 
 
 

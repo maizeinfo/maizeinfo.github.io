@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to maizeinfo!"
-  content: "Development of a corn comprehensive information database."
+  title: "Welcome to MaizeInfo!"
+  content: "A comprehensive database for the maize community."
   image: "/images/banner.png"
   button:
     enable: true

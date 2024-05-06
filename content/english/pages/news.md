@@ -32,7 +32,7 @@ print_background: true
 
 - [近期发表5篇学术论文！北京市农林科学院赵久然团队在玉米研究方面取得系列进展](https://mp.weixin.qq.com/s/RzJqeVKLVzaejNjfzaTkUw)   
 - [它究竟是谁？玉米、包谷、珍珠米、麻薯棒子、苞米……丨芳草萋萋](https://mp.weixin.qq.com/s/yQsJUVyC-841GN51OxpS0A)  
-- [人物 | 斯坦福大学玉米遗传学家Virginia Walbot](https://mp.weixin.qq.com/s/4cCy4ldKG_AsJe-f7si2hA)  
+
 - [“科创中国”作物多样性种植专业服务团团长调研和指导黑土区玉米/豆科间作种植](https://mp.weixin.qq.com/s/i0j3IpEva5iTu6or3-B34A)
 - [“科创中国”作物多样性种植专业服务团开展黑土区玉米大豆带状复合种植调研](https://mp.weixin.qq.com/s/vU5xcHTue_QgtnjRlTiKTg)
 - [“科创中国”作物多样性种植专业服务团助力安居区大豆玉米带状复合种植遍地开花](https://mp.weixin.qq.com/s/x7yYT4_GrpDxcbUhXjwHmA)

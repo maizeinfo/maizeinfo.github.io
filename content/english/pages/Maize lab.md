@@ -20,7 +20,7 @@ draft: false
 - [Christopher Burge Laboratory](http://genes.mit.edu/GENSCAN.html)
 - [WAKSMAN INSTITUTE OF MICROBIOLOGY](http://waksman.rutgers.edu/Waks/Dooner/dooner.html)
 - [BUCKLER LAB](https://www.maizegenetics.net/)
-- [Schnablelab](https://schnablelab.plantgenomics.iastate.edu/)
+- [Gallavotti Lab](https://www.waksman.rutgers.edu/gallavotti)
 - []()
 - []()
 - []()

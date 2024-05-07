@@ -9,7 +9,6 @@ draft: false
 
 ---
 
-{{< toc >}}
 
 <hr>
 
@@ -22,7 +21,7 @@ draft: false
 - DOI: [https://dx.doi.org/10.1038/nature22971](https://dx.doi.org/10.1038/nature22971)
 - Data download: [ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4)
 [https://download.maizegdb.org/Zm-B73-REFERENCE-GRAMENE-4.0/](https://download.maizegdb.org/Zm-B73-REFERENCE-GRAMENE-4.0/)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_000005005.6_B73_RefGen_v4](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_000005005.6_B73_RefGen_v4)
+
 
 {{< /accordion >}}
 
@@ -33,7 +32,6 @@ draft: false
 - Sample name: PI 550473 
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0](https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167145.1_Zm-B73-REFERENCE-NAM-5.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167145.1_Zm-B73-REFERENCE-NAM-5.0)
 
 {{< /accordion >}}
 
@@ -44,7 +42,6 @@ draft: false
 - Sample name: B97
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-B97-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-B97-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167075.1_Zm-B97-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167075.1_Zm-B97-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -65,7 +62,7 @@ draft: false
 - Sample name: CML103
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML103-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML103-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167055.1_Zm-CML103-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167055.1_Zm-CML103-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -85,7 +82,7 @@ draft: false
 - Sample name: CML228
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML228-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML228-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167155.1_Zm-CML228-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167155.1_Zm-CML228-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -96,7 +93,7 @@ draft: false
 - Sample name: CML247
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML247-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML247-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166975.1_Zm-CML247-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166975.1_Zm-CML247-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -107,7 +104,6 @@ draft: false
 - Sample name: CML277
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML277-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML277-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166985.1_Zm-CML277-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166985.1_Zm-CML277-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -118,7 +114,6 @@ draft: false
 - Sample name: CML322
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML322-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML322-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167095.1_Zm-CML322-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167095.1_Zm-CML322-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -129,7 +124,7 @@ draft: false
 - Sample name: CML333
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML333-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML333-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167025.1_Zm-CML333-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167025.1_Zm-CML333-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -140,7 +135,7 @@ draft: false
 - Sample name: CML52
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML52-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML52-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902373975.1_Zm-CML52-REFERENCE-NAM-2.1](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902373975.1_Zm-CML52-REFERENCE-NAM-2.1)
+
 
 {{< /accordion >}}
 
@@ -151,7 +146,7 @@ draft: false
 - Sample name: CML69
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-CML69-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-CML69-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167135.1_Zm-CML69-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167135.1_Zm-CML69-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -162,7 +157,7 @@ draft: false
 - Sample name: HP301
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-HP301-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-HP301-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167085.1_Zm-HP301-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167085.1_Zm-HP301-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -173,7 +168,7 @@ draft: false
 - Sample name: Il14H
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Il14H-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Il14H-REFERENCE-NAM-1.0)  
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167065.1_Zm-Il14H-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167065.1_Zm-Il14H-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -184,7 +179,6 @@ draft: false
 - Sample name: Ki11
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Ki11-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Ki11-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167115.1_Zm-Ki11-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167115.1_Zm-Ki11-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -195,7 +189,6 @@ draft: false
 - Sample name: Ki3
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Ki3-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Ki3-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167105.1_Zm-Ki3-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167105.1_Zm-Ki3-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -206,7 +199,7 @@ draft: false
 - Sample name: Ky21
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Ky21-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Ky21-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167045.1_Zm-Ky21-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167045.1_Zm-Ky21-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -217,7 +210,7 @@ draft: false
 - Sample name: M162W
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-M162W-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-M162W-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166995.1_Zm-M162W-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166995.1_Zm-M162W-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -228,7 +221,6 @@ draft: false
 - Sample name: M37W
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-M37W-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-M37W-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167175.1_Zm-M37W-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167175.1_Zm-M37W-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -238,8 +230,7 @@ draft: false
 - GenBank BioProject: PRJNA299869
 - Sample name: Mo17 PI 558532
 - DOI: [https://dx.doi.org/10.1038/s41467-017-02063-5](https://dx.doi.org/10.1038/s41467-017-02063-5)
-- Data download: [ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_002813505.1_ASM281350v1](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_002813505.1_ASM281350v1)
-[https://download.maizegdb.org/Zm-Mo17-REFERENCE-YAN-1.0/](https://download.maizegdb.org/Zm-Mo17-REFERENCE-YAN-1.0/)
+- Data download: [https://download.maizegdb.org/Zm-Mo17-REFERENCE-YAN-1.0/](https://download.maizegdb.org/Zm-Mo17-REFERENCE-YAN-1.0/)
 
 {{< /accordion >}}
 
@@ -260,7 +251,7 @@ draft: false
 - Sample name: Mo18W
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Mo18W-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Mo18W-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167165.1_Zm-Mo18W-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167165.1_Zm-Mo18W-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -271,7 +262,7 @@ draft: false
 - Sample name: Ms71
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Ms71-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Ms71-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167375.1_Zm-Ms71-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167375.1_Zm-Ms71-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -282,7 +273,7 @@ draft: false
 - Sample name: NC350
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-NC350-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-NC350-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167005.1_Zm-NC350-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167005.1_Zm-NC350-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -293,7 +284,7 @@ draft: false
 - Sample name: NC358
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-NC358-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-NC358-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167035.1_Zm-NC358-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167035.1_Zm-NC358-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -304,7 +295,7 @@ draft: false
 - Sample name: Oh43
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Oh43-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Oh43-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167015.1_Zm-Oh43-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167015.1_Zm-Oh43-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -315,7 +306,7 @@ draft: false
 - Sample name: Oh7B
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Oh7B-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Oh7B-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166955.1_Zm-Oh7B-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166955.1_Zm-Oh7B-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -326,7 +317,7 @@ draft: false
 - Sample name: P39
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-P39-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-P39-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166965.1_Zm-P39-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902166965.1_Zm-P39-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -357,7 +348,7 @@ draft: false
 - Sample name: Tx303
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Tx303-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Tx303-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167205.1_Zm-Tx303-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167205.1_Zm-Tx303-REFERENCE-NAM-1.0)
+
 
 {{< /accordion >}}
 
@@ -368,7 +359,6 @@ draft: false
 - Sample name: Tzi8
 - DOI: [https://dx.doi.org/10.1126/science.abg5289](https://dx.doi.org/10.1126/science.abg5289)
 - Data download: [https://download.maizegdb.org/Zm-Tzi8-REFERENCE-NAM-1.0](https://download.maizegdb.org/Zm-Tzi8-REFERENCE-NAM-1.0)
-[ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167185.1_Zm-Tzi8-REFERENCE-NAM-1.0](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/all_assembly_versions/GCA_902167185.1_Zm-Tzi8-REFERENCE-NAM-1.0)
 
 {{< /accordion >}}
 
@@ -417,8 +407,7 @@ draft: false
 - GenBank BioProject: PRJNA299874  
 - Sample name: mexicana PI 566673
 - DOI: [https://dx.doi.org/10.1038/s41467-017-02063-5](https://dx.doi.org/10.1038/s41467-017-02063-5)
-- Data download: [ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_002813485.1_ASM281348v1](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_002813485.1_ASM281348v1)
-[https://download.maizegdb.org/Zx-PI566673-REFERENCE-YAN-1.0/](https://download.maizegdb.org/Zx-PI566673-REFERENCE-YAN-1.0/)
+- Data download: [https://download.maizegdb.org/Zx-PI566673-REFERENCE-YAN-1.0/](https://download.maizegdb.org/Zx-PI566673-REFERENCE-YAN-1.0/)
 
 {{< /accordion >}}
 

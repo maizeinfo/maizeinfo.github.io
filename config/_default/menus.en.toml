@@ -9,7 +9,7 @@ weight = 1
 [[main]]
 name = "GENOMES"
 pageRef = "/genomes"
-weight = 3
+weight = 2
 
 [[main]]
 name = "VARIETIES"
@@ -17,20 +17,20 @@ pageRef = "/variety"
 weight = 3
 
 [[main]]
-weight = 2
+weight = 4
 name = "RESOURCES"
 
 [[main]]
 parent = "RESOURCES"
 name = "Maize online resource"
 pageRef = "/mzor"
-weight = 2
+weight = 1
 
 [[main]]
 parent = "RESOURCES"
 name = "Maize lab"
 pageRef = "/Maize lab"
-weight = 3
+weight = 2
 
 
 
@@ -73,7 +73,7 @@ weight = 3
 [[main]]
 name = "LITERATURE"
 pageRef = "/literature"
-weight = 2
+weight = 6
 
 
 

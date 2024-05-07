@@ -10,8 +10,6 @@ draft: false
 ---
 
 
-<hr>
-
 {{< accordion "Zm-B73-REFERENCE-GRAMENE-4.0 (also known as B73v4)" >}}
 
 - Assembly identifier: Zm00001d

@@ -38,6 +38,9 @@
 </style>
 
 
+<!-- 将分页模板引用放在顶部 -->
+{{ partial "components/pagination.html" . }}
+
 <div class="card-container">
   {{ range .Paginator.Pages }}
     <a href="{{ .RelPermalink }}" class="card">

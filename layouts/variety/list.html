@@ -41,15 +41,32 @@
 <!-- 将分页模板引用放在顶部 -->
 {{ partial "components/pagination.html" . }}
 
-<div class="card-container">
-  {{ range .Paginator.Pages }}
+<div class="container">
+  {{/*  {{ range .Paginator.Pages }}
     <a href="{{ .RelPermalink }}" class="card">
       <div class="card-content">
         <h3 class="card-title">{{ .Title }}</h3>
         <p class="card-description">{{ .Description | plainify }}</p>
       </div>
     </a>
-  {{ end }}
+  {{ end }}  */}}
+  <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" >
+    {{ range .Paginator.Pages }}
+    <li class="m-1 p-1 shadow-md ">
+      <div class="mt-1">
+        
+        <p>
+          <a href="{{ .RelPermalink }}" class=" text-dark dark:text-darkmode-dark block text-xl title-text">
+            {{ .Title }}
+          </a>
+        </p>
+        
+        <p class="description-text">{{ .Description | plainify }}</p>
+      </div>
+    </li>
+    {{ end }}
+    </ul>
+  
 </div>
 
 <!-- 如果你还想在底部也有分页，可以再次引用分页模板，如下：

@@ -6,15 +6,14 @@ name = "HOME"
 pageRef = "/"
 weight = 1
 
+[[main]]
+name = "GENOMES"
+pageRef = "/genomes"
+weight = 3
 
 [[main]]
 name = "VARIETIES"
 pageRef = "/variety"
-weight = 3
-
-[[main]]
-name = "GENOMES"
-pageRef = "/genomes"
 weight = 3
 
 [[main]]
@@ -32,6 +31,8 @@ parent = "RESOURCES"
 name = "Maize lab"
 pageRef = "/Maize lab"
 weight = 3
+
+
 
 [[main]]
 weight = 5

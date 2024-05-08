@@ -17,7 +17,7 @@ draft: false
 - GenBank BioProject: PRJNA72137
 - Sample name: PI 550473  
 - DOI: [https://dx.doi.org/10.1038/nature22971](https://dx.doi.org/10.1038/nature22971)
-- Data download: [ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4](ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/plant/Zea_mays/latest_assembly_versions/GCA_000005005.6_B73_RefGen_v4)
+- Data download: 
 [https://download.maizegdb.org/Zm-B73-REFERENCE-GRAMENE-4.0/](https://download.maizegdb.org/Zm-B73-REFERENCE-GRAMENE-4.0/)
 
 

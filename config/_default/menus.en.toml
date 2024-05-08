@@ -22,7 +22,7 @@ name = "RESOURCES"
 
 [[main]]
 parent = "RESOURCES"
-name = "Maize online resource"
+name = "Online resource"
 pageRef = "/mzor"
 weight = 1
 

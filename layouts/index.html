@@ -1,4 +1,10 @@
 {{ define "main" }}
+<script>
+  let indexURL = "/searchindex.json";
+  let includeSectionsInSearch = ["genes","pages","sections","submit"];
+  let no_results_for = "No results for";
+  let empty_search_results_placeholder = "Type something to search..";
+</script>
   <!-- Banner -->
  {{ with .Params.banner }}
     <section >
